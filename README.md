@@ -77,7 +77,7 @@
   </a>
 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/253229/microsoft-sql-server-logo.svg" alt="mssql" width="25" height="25"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="25" height="25"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
