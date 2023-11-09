@@ -2,7 +2,7 @@
 <h3 align="center">I am a 4th-year student of Applied Computer Science at Wroclaw University of Science and Technology with a passion for programming and game development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **C# and Unity**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All builds of my projects are available on: [https://drive.google.com/drive/folders/1JgJs3zIDCy1xiAkUkNqKEh783bp73m_r?usp=sharing](https://drive.google.com/drive/folders/1JgJs3zIDCy1xiAkUkNqKEh783bp73m_r?usp=sharing)
 
@@ -57,6 +57,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
   </a>
 
+  
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25"/> 
+  </a>
+
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="25" height="25"/> 
+  </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/>
@@ -109,6 +118,11 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="25" height="25"/>
   </a>
+
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="25" height="25"/>
+  </a>
+
 </p>
 
 **My WakaTime stats:**
