@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub Roszkowski</h1>
-<h3 align="center">I am a 4th-year student of Applied Computer Science at Wroclaw University of Science and Technology with a passion for programming and game development.</h3>
+<h3 align="center">I am a 5th-year student of Applied Computer Science at Wroclaw University of Science and Technology with a passion for programming and game development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Angular**
