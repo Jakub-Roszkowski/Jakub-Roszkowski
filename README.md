@@ -2,7 +2,7 @@
 <h3 align="center">I am a 5th-year student of Applied Computer Science at Wroclaw University of Science and Technology with a passion for programming and game development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python and React**
 
 - 👨‍💻 All builds of my projects are available on: [https://drive.google.com/drive/folders/1JgJs3zIDCy1xiAkUkNqKEh783bp73m_r?usp=sharing](https://drive.google.com/drive/folders/1JgJs3zIDCy1xiAkUkNqKEh783bp73m_r?usp=sharing)
 
@@ -26,6 +26,9 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
 </p>
 
 <h5 align="left">Others Languages and Tools:</h5>
@@ -34,10 +37,6 @@
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/>
-  </a>
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
   </a>
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -124,10 +123,6 @@
   </a>
 
 </p>
-
-**My WakaTime stats:**
-
-[![wakatime](https://wakatime.com/badge/user/90fc47dd-353e-43b2-944d-ca5720423989.svg)](https://wakatime.com/@90fc47dd-353e-43b2-944d-ca5720423989)
 
 
 
