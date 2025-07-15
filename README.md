@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jakub Roszkowski</h1>
-<h3 align="center">I am a 5th-year student of Applied Computer Science at Wroclaw University of Science and Technology with a passion for programming and game development.</h3>
+<h3 align="center">
+  I hold a Master of Engineering (M.Eng.) in Applied Computer Science from
+  Wroclaw University of Science and Technology, with a passion for programming
+  and game development.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **.Net and React**
 
 - 👨‍💻 All builds of my projects are available on: [https://drive.google.com/drive/folders/1JgJs3zIDCy1xiAkUkNqKEh783bp73m_r?usp=sharing](https://drive.google.com/drive/folders/1JgJs3zIDCy1xiAkUkNqKEh783bp73m_r?usp=sharing)
 
